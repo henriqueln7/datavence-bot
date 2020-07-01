@@ -1,0 +1,20 @@
+{
+  "name": "datavence-bot",
+  "version": "1.0.0",
+  "main": "index.js",
+  "author": "Henrique Lopes <henriquelopees7@gmail.com>",
+  "license": "MIT",
+  "scripts": {
+    "start": "ts-node main.ts"
+  },
+  "dependencies": {
+    "axios": "^0.19.2",
+    "dotenv": "^8.2.0",
+    "telegraf": "^3.38.0"
+  },
+  "devDependencies": {
+    "@types/node": "^14.0.14",
+    "ts-node": "^8.10.2",
+    "typescript": "^3.9.5"
+  }
+}
